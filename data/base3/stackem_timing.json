@@ -1,0 +1,47 @@
+[
+ {
+  "tag": "numpy_1thr",
+  "engine": "numpy",
+  "threads": 1,
+  "n_rails": 246,
+  "n_segments": 9840,
+  "time": "2026-10-08 06:07:42",
+  "affinity": [
+   0,
+   1
+  ],
+  "seconds_screen": [
+   0.35922942299998795
+  ],
+  "n_mortal": 170,
+  "n_segments_mortal": 6800,
+  "seconds_setup": 0.0028874119998363312,
+  "seconds_warmup": 0.19793963500001155,
+  "seconds_closure": [
+   44.84636000600017
+  ],
+  "tnuc_rel_median": 0.0015299078953040616,
+  "tnuc_rel_max": 0.023444167229112033
+ },
+ {
+  "tag": "none",
+  "engine": "none",
+  "threads": null,
+  "n_rails": 246,
+  "n_segments": 9840,
+  "time": "2026-10-08 06:09:21",
+  "affinity": [
+   0,
+   1
+  ],
+  "seconds_screen": [
+   0.37717725099992094,
+   0.3809270080000715,
+   0.3622673659999691
+  ],
+  "n_mortal": 170,
+  "n_segments_mortal": 6800,
+  "tnuc_rel_median": 0.0015299079246459887,
+  "tnuc_rel_max": 0.023444167281223987
+ }
+]
